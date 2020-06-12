@@ -1,24 +1,11 @@
-# main-smagri
-This is a main repo for smagri apps
+#SMAGRI
 
-
-# Team 1 :
-  * Zein Fahrozi
-  * Faiq Azmii
-
-### Work To Do
-Lihat Issues
-
-<hr />
-
-# Team 2 : 
-  * Iqlima Chairunnisa
-  * Lita Sarlita
-  
-### Work To Do
-Lihat Issues
-
-<hr />
+| Syntax      | Description |
+| ----------- | ----------- |
+| M Zein Ihza Fahrozi      | 2018-072 (C)      |
+| Faiq Azmi   | 2018-047 (C)        |
+| Iqlima Chairunnisa   | 2018-079 (C)        |
+| Sarlita Rizka Anggraeni   | 2018-075 (C)        |
 
 
 
