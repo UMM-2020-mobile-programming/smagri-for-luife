@@ -1,4 +1,4 @@
-#SMAGRI
+# SMAGRI
 
 | Syntax      | Description |
 | ----------- | ----------- |
